@@ -38,8 +38,10 @@ shipping_manifest["musets"] = 2
 
   # add 4 gun powder to the shipping_manifest hash below
 
-shipping_manifest["musets"] = 2
+shipping_manifest["gun powder"] = 4
 
   # return the shipping_manifest hash below
+
+shipping_manifest
 
 end
